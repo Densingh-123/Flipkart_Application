@@ -46,7 +46,6 @@ To run this project locally, follow the steps below:
 
 First, clone the repository to your local machine using Git:
 
-```bash
 git clone https://github.com/yourusername/flipkart-application.git
 ![screencapture-localhost-3000-cart-2025-01-08-21_20_18](https://github.com/user-attachments/assets/321af69b-aa67-4804-ba3d-52a93d004edb)
 ![screencapture-localhost-3000-cart-2025-01-08-21_19_41](https://github.com/user-attachments/assets/c3f88922-d08a-4ae4-87a8-3c5f3f4db5b7)
@@ -76,4 +75,4 @@ flipkart-application/
 4. **Folder Structure**: Described the organization of files and directories in the project.
 5. **Contributions and License**: Information on how others can contribute and the project's license.
 
-Replace the GitHub URL (`https://github.com/yourusername/flipkart-application.git`) with your own repository URL before using it on GitHub.
+Replace the GitHub URL (`https://github.com/Densingh-123/Flipkart_Application.git`) with your own repository URL before using it on GitHub.
