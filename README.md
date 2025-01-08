@@ -8,11 +8,15 @@ This project is a simplified version of the Flipkart e-commerce platform, built 
    - Displays featured categories such as "Top Offers", "Electronics", "Mobiles & Tablets", etc.
    - A carousel displaying banners and deals.
    - Product carousels for various categories with images, product names, and brands.
-![screencapture-localhost-3000-cart-2025-01-08-21_20_18](https://github.com/user-attachments/assets/321af69b-aa67-4804-ba3d-52a93d004edb)
+   - 
+![screencapture-localhost-3000-2025-01-08-21_16_43](https://github.com/user-attachments/assets/cb392e37-3121-4982-87ab-0d3bf672fcc2)  
+
 ### 2. **Category Bar**
    - Displays categories like Electronics, Beauty, Grocery, etc., with images and names.
    - Categories are clickable, and when selected, they show the relevant products.
-![screencapture-localhost-3000-cart-2025-01-08-21_19_41](https://github.com/user-attachments/assets/c3f88922-d08a-4ae4-87a8-3c5f3f4db5b7)
+   - 
+![screencapture-localhost-3000-products-2025-01-08-21_17_01](https://github.com/user-attachments/assets/1872e68a-822c-4c25-9353-db3051358fdc)
+
 ### 3. **Product Carousel**
    - Shows products in a carousel format, with dynamic updates when the user clicks on category items.
    - Products are shown in random order within each category to keep the experience fresh.
@@ -42,8 +46,7 @@ This project is a simplified version of the Flipkart e-commerce platform, built 
 
 ---
 
-
-![screencapture-localhost-3000-products-2025-01-08-21_17_01](https://github.com/user-attachments/assets/1872e68a-822c-4c25-9353-db3051358fdc)
+![screencapture-localhost-3000-cart-2025-01-08-21_19_41](https://github.com/user-attachments/assets/c3f88922-d08a-4ae4-87a8-3c5f3f4db5b7)
 ## Installation and Setup
 
 To run this project locally, follow the steps below:
@@ -53,8 +56,7 @@ To run this project locally, follow the steps below:
 First, clone the repository to your local machine using Git:
 
 git clone https://github.com/yourusername/flipkart-application.git
-
-![screencapture-localhost-3000-2025-01-08-21_16_43](https://github.com/user-attachments/assets/cb392e37-3121-4982-87ab-0d3bf672fcc2)  
+![screencapture-localhost-3000-cart-2025-01-08-21_20_18](https://github.com/user-attachments/assets/321af69b-aa67-4804-ba3d-52a93d004edb)
 
 flipkart-application/
 ├── public/
